@@ -1,0 +1,1 @@
+sudo qemu-img convert -f qcow2 bionic-server-cloudimg-amd64.img /var/lib/libvirt/images/<name>.img
